@@ -1,0 +1,12 @@
+{
+	"label":{
+		"title_label_management": "Label form",
+		"name_input": "Name",
+		"name_placeholder": "My Name",
+		"group_input": "Group",
+		"group_placeholder": "My Group",
+		"checkbox1": "Public",
+		"checkbox2": "Active", 
+		"validation_button": "Validate"
+	}
+}
