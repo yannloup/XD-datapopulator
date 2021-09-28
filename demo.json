@@ -1,12 +1,12 @@
 {
 	"label":{
-		"form_title": "New entry",
+		"form_title": "Form title",
 		"name_input": "Name",
-		"name_placeholder": "My Name",
+		"name_placeholder": "Your Name",
 		"group_input": "Group",
-		"group_placeholder": "my Group",
-		"checkbox1": "Public",
-		"checkbox2": "Active", 
-		"validation_button": "Create"
+		"group_placeholder": "Your Group",
+		"checkbox1": "Visible",
+		"checkbox2": "Actived", 
+		"validation_button": "Ok"
 	}
 }
