@@ -1,6 +1,6 @@
 {
 	"label":{
-		"title_label_management": "Label form",
+		"form_title": "Label form",
 		"name_input": "Name",
 		"name_placeholder": "Your Name",
 		"group_input": "Group",
